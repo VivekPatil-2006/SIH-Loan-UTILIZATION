@@ -6,12 +6,15 @@
 
 --- 
 
-<div style="display: flex; flex-wrap: nowrap; gap: 10px; justify-content: center; align-items: center;">
-  <img src="https://github.com/VivekPatil-2006/SIH-Loan-UTILIZATION/blob/Mobile-Prototype-Visuals/Screenshot_20251015_230554.jpg" width="400" height="auto" />
-  <img src="https://github.com/VivekPatil-2006/SIH-Loan-UTILIZATION/blob/Mobile-Prototype-Visuals/Screenshot_20251015_230550.jpg" width="400" height="auto" />
-  <img src="https://github.com/VivekPatil-2006/SIH-Loan-UTILIZATION/blob/Mobile-Prototype-Visuals/Screenshot_20251015_230544.jpg" width="400" height="auto" />
-  <img src="https://github.com/VivekPatil-2006/SIH-Loan-UTILIZATION/blob/Mobile-Prototype-Visuals/Screenshot_20251015_230533.jpg" width="400" height="auto" />
+<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+
+  <img src="https://github.com/VivekPatil-2006/SIH-Loan-UTILIZATION/blob/Mobile-Prototype-Visuals/Screenshot_20251015_230554.jpg" width="300" height="auto" />
+  <img src="https://github.com/VivekPatil-2006/SIH-Loan-UTILIZATION/blob/Mobile-Prototype-Visuals/Screenshot_20251015_230550.jpg" width="300" height="auto" />
+  <img src="https://github.com/VivekPatil-2006/SIH-Loan-UTILIZATION/blob/Mobile-Prototype-Visuals/Screenshot_20251015_230544.jpg" width="300" height="auto" />
+  <img src="https://github.com/VivekPatil-2006/SIH-Loan-UTILIZATION/blob/Mobile-Prototype-Visuals/Screenshot_20251015_230533.jpg" width="300" height="auto" />
+
 </div>
+
 
 ---
 
