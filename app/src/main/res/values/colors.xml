@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="light_gray">#D3D3D3</color>
+    <color name="purple_500">#6200EE</color>
+    <color name="purple_700">#3700B3</color>
+    <color name="teal_500">#03DAC5</color>
+    <color name="teal_700">#018786</color>
+    <color name="red_500">#B00020</color>
+    <color name="gray">#9E9E9E</color>
+    <color name="dark_gray">#616161</color>
+    <color name="blue_500">#2196F3</color>
+    <color name="blue_700">#1976D2</color>
+    <color name="orange_500">#FF9800</color>
+    <color name="green_500">#4CAF50</color>
+
+    <!-- EditText Background -->
+    <color name="edittext_bg_color">#EEEEEE</color>
+
+    <!-- Divider Color -->
+    <color name="divider_color">#DDDDDD</color>
+</resources>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="24dp"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white">
+
+    <Button
+        android:id="@+id/captureAssetBtn"
+        android:text="Capture Asset"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:backgroundTint="@color/purple_500"
+        android:textColor="@color/white"
+        android:textSize="18sp"
+        android:elevation="6dp"/>
+
+    <Button
+        android:id="@+id/submissionsBtn"
+        android:text="View Submissions"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_marginTop="16dp"
+        android:backgroundTint="@color/teal_700"
+        android:textColor="@color/white"
+        android:textSize="18sp"
+        android:elevation="6dp"/>
+
+    <Button
+        android:id="@+id/profileBtn"
+        android:text="Profile"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_marginTop="16dp"
+        android:backgroundTint="@color/purple_500"
+        android:textColor="@color/white"
+        android:textSize="18sp"
+        android:elevation="6dp"/>
+
+    <Button
+        android:id="@+id/logoutBtn"
+        android:text="Logout"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_marginTop="16dp"
+        android:backgroundTint="@color/red_500"
+        android:textColor="@color/white"
+        android:textSize="18sp"
+        android:elevation="6dp"/>
+</LinearLayout>
